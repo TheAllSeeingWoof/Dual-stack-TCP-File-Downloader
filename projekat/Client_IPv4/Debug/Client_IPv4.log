@@ -1,0 +1,10 @@
+﻿  Client_IPv4.cpp
+c:\users\oxqui\desktop\ftn\4.god\new folder\project\donezoe\projekat\client_ipv4\client_ipv4.cpp(29): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\oxqui\desktop\ftn\4.god\new folder\project\donezoe\projekat\client_ipv4\client_ipv4.cpp(77): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: see declaration of 'inet_addr'
+c:\users\oxqui\desktop\ftn\4.god\new folder\project\donezoe\projekat\client_ipv4\client_ipv4.cpp(135): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: see declaration of 'inet_addr'
+c:\users\oxqui\desktop\ftn\4.god\new folder\project\donezoe\projekat\client_ipv4\client_ipv4.cpp(47): warning C4101: 'serverAddress2': unreferenced local variable
+Client_IPv4.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  Client_IPv4.vcxproj -> C:\Users\oxqui\Desktop\ftn\4.god\New folder\project\DONEZOE\projekat\Debug\Client_IPv4.exe

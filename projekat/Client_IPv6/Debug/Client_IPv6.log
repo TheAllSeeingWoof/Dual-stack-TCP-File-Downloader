@@ -1,0 +1,11 @@
+﻿  Decription.cpp
+c:\users\oxqui\desktop\ftn\4.god\new folder\project\donezoe\projekat\client_ipv6\decription.cpp(12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\oxqui\desktop\ftn\4.god\new folder\project\donezoe\projekat\client_ipv6\decription.cpp(18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  Client_IPv6.cpp
+c:\users\oxqui\desktop\ftn\4.god\new folder\project\donezoe\projekat\client_ipv6\client_ipv6.cpp(34): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  Generating Code...
+Client_IPv6.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  Client_IPv6.vcxproj -> C:\Users\oxqui\Desktop\ftn\4.god\New folder\project\DONEZOE\projekat\Debug\Client_IPv6.exe
